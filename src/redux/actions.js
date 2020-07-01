@@ -42,7 +42,7 @@ export function changeTitle(data) {
   }
 }
 
-export function unp(data) {
+export function updateDate(data) {
   return {
     type: UPDATE_DATE,
     data
